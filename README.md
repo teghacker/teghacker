@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m a backend dev
 - 📫 How to reach me with anything
-- 😄 Pronouns: anything
+- 😄 Pronouns: Sir
 - ⚡ Fun fact: nothing
 
 <!---
