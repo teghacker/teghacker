@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @teghacker
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning backend
+- 🌱 I’m a backend dev
 - 📫 How to reach me with anything
-- 😄 Pronouns: nothing
+- 😄 Pronouns: anything
 - ⚡ Fun fact: nothing
 
 <!---
